@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671025595293",
+    "project_id": "gchat-39d0f",
+    "storage_bucket": "gchat-39d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671025595293:android:08707b026825590cf52574",
+        "android_client_info": {
+          "package_name": "com.example.gchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671025595293-bucmk0m20k6253o7stpvpibck9vad7d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7faEMek2rHsEUbrS85_ucLctUUsds3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671025595293-bucmk0m20k6253o7stpvpibck9vad7d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

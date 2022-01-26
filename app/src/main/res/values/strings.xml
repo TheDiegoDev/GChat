@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GChat</string>
+    <string name="bienvenido_a_gchat">Bienvenido a GChat</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="registrate">Registrate</string>
+    <string name="has_olvidado_tu_constrase_a">¿Has olvidado tu constraseña?</string>
+    <string name="numero_de_telefono">Numero de Telefono</string>
+    <string name="password">Password</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password_requeriment">El Password tiene que ser al menos de 6 digitos</string>
+    <string name="isEmptyEditText">No puede dejar campos vacios</string>
+    <string name="error_registro">No se pudo registrar el usuario</string>
+    <string name="error_push_data">No se pudieron guardar tus datos de inicio de sesion</string>
+    <string name="error_inicio_sesion">No se pudo iniciar sesion con este usuario</string>
+</resources>
